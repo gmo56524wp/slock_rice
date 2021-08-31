@@ -5,7 +5,7 @@
 sudo make install
 ```
 
-# install
+# uninstall
 ```{sh}
 sudo make clean uninstall
 ```
